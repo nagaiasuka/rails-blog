@@ -1,0 +1,9 @@
+ja:
+  activerecord:
+    models:
+      post:
+    attributes:
+      post:
+        id: ID
+        title: タイトル
+        body: 内容
